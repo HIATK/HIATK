@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=516395&height=300&section=header&text=T_H%20render&fontSize=90" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EDE574&height=300&section=header&text=T_H%20render&fontSize=90" /> 
  <!--
 **HIATK/HIATK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
