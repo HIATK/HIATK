@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EDE574,100:5FC3E4&height=300&section=header&text=TAI_%20H&&fontColor=606062" />  
  <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9FB7CA&random=false&width=435&lines=NullPointException" alt="Typing SVG" /></a> 
